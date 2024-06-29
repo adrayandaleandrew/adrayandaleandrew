@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dale Andrew</h1>
-<h3 align="center">A passionate web developer and QA tester from the Philippines</h3>
+<h3 align="center">A passionate software QA tester learning new technologies related to software QA and web development from the Philippines.</h3>
 
 - 🌱 I’m currently learning **Angular**
 
@@ -7,9 +7,15 @@
 
 - 💬 Ask me about **General coding or Software testing**
 
+- 📫 How to reach me **adrayandale@gmail.com**
+
+- ⚡ Fun fact **I'm not fat, I'm just hungry**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/adrayandaleandrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adrayandaleandrew" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dale-andrew-adrayan-851622263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dale-andrew-adrayan-851622263" height="30" width="40" /></a>
+<a href="https://instagram.com/@nnnndrewwww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@nnnndrewwww" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
