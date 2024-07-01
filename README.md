@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adrayandale@gmail.com**
 
-- ⚡ Fun fact **I'm not fat, I'm just hungry**
+- ⚡ Fun fact **I love cycling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
