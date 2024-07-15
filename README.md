@@ -5,9 +5,7 @@
 
 - 👯 I’m looking to collaborate on **General coding or Software testing**
 
-- 💬 Ask me about **General coding or Software testing**
-
-- 📫 How to reach me **adrayandale@gmail.com**
+- 💬 Ask me about **General coding, Software Development or Software testing**
 
 - ⚡ Fun fact **I love cycling**
 
