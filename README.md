@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dale Andrew</h1>
 <h3 align="center">I am a Software Quality Assurance Engineer with experience in manual and automated testing </h3>
-<h4>Ensuring software quality and improving product stability by utilizing software tools such as Playwright, Selenium, Postman, and others.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrayandaleandrew&label=Profile%20views&color=0e75b6&style=flat" alt="adrayandaleandrew" /> </p>
 
