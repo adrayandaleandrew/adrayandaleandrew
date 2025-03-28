@@ -1,13 +1,32 @@
 <h1 align="center">Hi 👋, I'm Dale Andrew</h1>
-<h3 align="center">A passionate software QA tester learning new technologies related to software QA and software development.</h3>
+<h3 align="center">I am a Software Quality Assurance Engineer with experience in manual and automated testing, API testing, and CI/CD pipeline maintenance. Passionate about ensuring software quality and improving product stability, I specialize in Playwright, Selenium, Postman, and JavaScript/TypeScript-based automation frameworks..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrayandaleandrew&label=Profile%20views&color=0e75b6&style=flat" alt="adrayandaleandrew" /> </p>
 
-- 👯 I’m looking to collaborate on **General coding or Software testing**
+<h3 align="left">🔧 What I Do:</h3>
+- Conduct manual and automated testing to ensure software reliability
 
-- 💬 Ask me about **General coding, Software Development or Software testing**
+- Perform API testing with Postman for seamless system integrations
 
-- ⚡ Fun fact **I love cycling**
+- Maintain CI/CD pipelines to optimize deployment workflows
+
+- Collaborate with developers to fix UI/UX issues and improve application performance
+
+- Utilize Azure Dev Boards, Jira, and Git for tracking and version control
+
+<h3 align="left">🚀 Tech Stack & Skills:</h3>
+- Testing Tools: Playwright, Selenium, Postman
+
+- Languages: JavaScript, TypeScript, Java, PHP
+
+- Frameworks & Libraries: Angular, ReactJS, TailwindCSS
+
+- Databases: MongoDB, MySQL
+
+- Version Control & CI/CD: Git, Bitbucket, Netlify, Vercel
+
+<h3 align="left">📌 More About Me:</h3>
+<p align="left">I'm always eager to learn new testing technologies and improve my development skills. I enjoy working in collaborative environments and solving real-world software challenges.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
