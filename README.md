@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dale Andrew</h1>
-<h3 align="center">I am a Software Quality Assurance Engineer with experience in manual and automated testing, API testing, and CI/CD pipeline maintenance. Passionate about ensuring software quality and improving product stability, I specialize in Playwright, Selenium, Postman, and JavaScript/TypeScript-based automation frameworks..</h3>
+<h3 align="center">I am a Software Quality Assurance Engineer with experience in manual and automated testing, API testing, and CI/CD pipeline maintenance. </h3>
+<h4>Passionate about ensuring software quality and improving product stability, I specialize in Playwright, Selenium, Postman, and JavaScript/TypeScript-based automation frameworks.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrayandaleandrew&label=Profile%20views&color=0e75b6&style=flat" alt="adrayandaleandrew" /> </p>
 
