@@ -23,7 +23,7 @@
 
 - Databases: MongoDB, MySQL
 
-- Version Control & CI/CD: Git, Bitbucket, Netlify, Vercel
+- Version Control & CI/CD: Git, Bitbucket, Github Actions, Vercel
 
 <h3 align="left">📌 More About Me:</h3>
 <p align="left">I'm always eager to learn new testing technologies and improve my development skills. I enjoy working in collaborative environments and solving real-world software challenges.</p>
