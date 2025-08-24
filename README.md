@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrayandaleandrew&label=Profile%20views&color=0e75b6&style=flat" alt="adrayandaleandrew" /> </p>
 
 <h3 align="left">🔧 What I Do:</h3>
+
 - Conduct manual and automated testing to ensure software reliability
 
 - Perform API testing with Postman for seamless system integrations
@@ -15,6 +16,7 @@
 - Utilize Azure Dev Boards, Jira, and Git for tracking and version control
 
 <h3 align="left">🚀 Tech Stack & Skills:</h3>
+
 - Testing Tools: Playwright, Selenium, Postman
 
 - Languages: JavaScript, TypeScript, Java, PHP
